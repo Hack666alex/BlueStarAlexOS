@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=bluestar
+Description=Wallpaper only
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/bluestar
+ScriptFile=/usr/share/plymouth/themes/bluestar/bluestar.script
